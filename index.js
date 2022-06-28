@@ -8,7 +8,7 @@ c.fillStyle = 'white'
 c.fillRect(0, 0, canvas.width, canvas.height)
 
 const image = new Image()
-image.src = './img/Sean.png'
+image.src = './img/demoGame.png'
 
 const playerImage = new Image()
 playerImage.src = '/img/playerDown.png'
